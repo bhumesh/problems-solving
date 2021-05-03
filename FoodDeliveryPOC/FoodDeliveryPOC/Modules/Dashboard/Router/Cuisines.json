@@ -1,0 +1,147 @@
+{
+  "cuisines": [
+    {
+      "type": "Pizza",
+      "items": [
+        {
+          "name": "Pizza Marinara",
+          "description": "This is a traditional Neapolitan pizza that is made with lots of garlic, anchovies and oregano.",
+          "extradetail": "200 gram, 35 cm",
+          "imagerUrl": "offer1",
+          "quantity": 0,
+          "price": 50
+        },
+        {
+          "name": "Pizza Pugliese",
+          "description": "This is another great pizza that is made using olives from the area and local capers. It is also topped with onions, mozzarella and tomatoes.",
+          "extradetail": "200 gram, 35 cm",
+          "imageUrl": "offer2",
+          "quantity": 0,
+          "price": 55
+        },
+        {
+          "name": "Pizza Capricciosa",
+          "description": "This pizza is topped with olives, artichoke hearts, half of a boiled egg, prosciutto and mushrooms.",
+          "extradetail": "200 gram, 35 cm",
+          "imageUrl": "offer3",
+          "quantity": 0,
+          "price": 60
+        },
+        {
+          "name": "Pizza Veronese",
+          "description": "This one is made simply with Prosciutto crudo and mushrooms.",
+          "extradetail": "200 gram, 35 cm",
+          "imageUrl": "offer4",
+          "quantity": 0,
+          "price": 65
+        },
+        {
+          "name": "Pizza Romana",
+          "description": "This is a pizza that contains anchovies, capperi, mozzarella and tomatoes.",
+          "extradetail": "200 gram, 35 cm",
+          "imageUrl": "offer4",
+          "quantity": 0,
+          "price": 70
+        },
+        {
+          "name": "Liguria Pizza",
+          "description": "This one has a topping of basil pesto and does not have a tomato sauce.",
+          "extradetail": "200 gram, 35 cm",
+          "imageUrl": "offer4",
+          "quantity": 0,
+          "price": 75
+        }
+      ]
+    },
+    {
+      "type": "Sushsi",
+      "items": [
+        {
+          "name": "Nigiri",
+          "description": "A topping, usually fish, served on top of sushi rice",
+          "extradetail": "Blue Fin Belly (raw), 200 gram",
+          "imageUrl": "offer1",
+          "quantity": 0,
+          "price": 33
+        },
+        {
+          "name": "Sashimi",
+          "description": "Fish or shellfish served alone (no rice)",
+          "extradetail": "Whelk Clam (raw), 200 gram",
+          "imageUrl": "offer42",
+          "quantity": 0,
+          "price": 44
+        },
+        {
+          "name": "Maki",
+          "description": "Rice and filling wrapped in seaweed",
+          "extradetail": "Tuna (raw), 200 gram",
+          "imageUrl": "offer3",
+          "quantity": 0,
+          "price": 55
+        },
+        {
+          "name": "Uramaki",
+          "description": "Similar to the above, but rice is on the outside and seaweed wraps around the filling",
+          "extradetail": "Scallop (raw), 150 gram",
+          "imageUrl": "offer4",
+          "quantity": 0,
+          "price": 66
+        },
+        {
+          "name": "Temaki",
+          "description": "Sushi that has been hand-rolled into a cone shape",
+          "extradetail": "Round Clam (raw), 200 gram",
+          "imageUrl": "offer1",
+          "quantity": 0,
+          "price": 77
+        }
+      ]
+    },
+    {
+      "type": "Drinks",
+      "items": [
+        {
+          "name": "Cabernet sauvignon",
+          "description": "Full-bodied with herbal notes. Younger cab has rich flavors of currant.",
+          "extradetail": "100 ml",
+          "imageUrl": "offer1",
+          "quantity": 0,
+          "price": 28
+        },
+        {
+          "name": "Merlot",
+          "description": "Fruity, spicy. Very soft, less tannic than Cabernet sauvignon.",
+          "extradetail": "100 ml",
+          "imageUrl": "offer2",
+          "quantity": 0,
+          "price": 38
+        },
+        {
+          "name": "Pinot noir",
+          "description": "Delicate and fresh, very soft tannins with fruity aromas.",
+          "extradetail": "100 ml",
+          "imageUrl": "offer3",
+          "quantity": 0,
+          "price": 46
+        },
+        {
+          "name": "Zinfandel",
+          "description": "Typically zesty, ranges from medium- to full-bodied and dry to off-dry.",
+          "extradetail": "100 ml",
+          "imageUrl": "offer1",
+          "quantity": 0,
+          "price": 58
+        },
+        {
+          "name": "Riesling",
+          "description": "Usually very sweet, with intense fruit flavors. Much lighter than chardonnay.",
+          "extradetail": "100 ml",
+          "imageUrl": "offer43",
+          "quantity": 0,
+          "price": 62
+        }
+      ]
+    }
+  ]
+}

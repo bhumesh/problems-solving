@@ -1,0 +1,24 @@
+{
+  "offers": [
+    {
+      "offerDesc": "This is a traditional Neapolitan pizza that is made with lots of garlic, anchovies and oregano.",
+      "offerID": "offerID1",
+      "imageUrl": "offer1"
+    },
+    {
+      "offerDesc": "This is a traditional Neapolitan pizza that is made with lots of garlic, anchovies and oregano.",
+      "offerID": "offerID2",
+      "imageUrl": "offer2"
+    },
+    {
+      "offerDesc": "This is a traditional Neapolitan pizza that is made with lots of garlic, anchovies and oregano.",
+      "offerID": "offerID3",
+      "imageUrl": "offer3"
+    },
+    {
+      "offerDesc": "This is a traditional Neapolitan pizza that is made with lots of garlic, anchovies and oregano.",
+      "offerID": "offerID4",
+      "imageUrl": "offer4"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9F99D675-D4BD-4A8B-AF76-339BE616042D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69CACC67-5DA0-4EBC-A249-8FFB7E77CF1D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodDeliveryPOC/Modules/Dashboard/Interactor/DashboardInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchCuisines()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F978A0C-3623-498A-B3F3-5AAF0F35BC59"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodDeliveryPOC/Modules/Dashboard/View/CuisineViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "didSelecteCuisionAtIndex(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA4E6991-BF4B-465B-891B-E1AB696C130F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FoodDeliveryPOC/Modules/Dashboard/View/DashboardViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "didAddToCart(cuisine:type:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA4E6991-BF4B-465B-891B-E1AB696C130F - 575245e0318130ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FoodDeliveryPOC.DashboardViewController.didAddToCart(cuisine: FoodDeliveryPOC.Cuisine, type: Swift.String) -&gt; ()"
+                  moduleName = "FoodDeliveryPOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Problems/DinDinn/FoodDeliveryPOC/FoodDeliveryPOC/Modules/Dashboard/View/DashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "EA4E6991-BF4B-465B-891B-E1AB696C130F - 28b23c43b5abc05f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (FoodDeliveryPOC.Cuisine) -&gt; Swift.Bool in FoodDeliveryPOC.DashboardViewController.didAddToCart(cuisine: FoodDeliveryPOC.Cuisine, type: Swift.String) -&gt; ()"
+                  moduleName = "FoodDeliveryPOC"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Problems/DinDinn/FoodDeliveryPOC/FoodDeliveryPOC/Modules/Dashboard/View/DashboardViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
